@@ -1,0 +1,27 @@
+_repo: Forty-Centuries-of-Ink-Or-A-chronological-narrative-concerning-ink-and-its-backgrounds-introdu__1483
+creator:
+  author:
+    agent_name: Carvalho, David Nunes
+    alias: Carvalho, David N. (David Nunes)
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '646'
+    url: http://www.gutenberg.org/2009/agents/646
+description: ''
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Ink'
+title: "Forty Centuries of Ink\r\nOr, A chronological narrative concerning ink and\
+  \ its backgrounds, introducing incidental observations and deductions, parallels\
+  \ of time and color phenomena, bibliography, chemistry, poetical effusions, citations,\
+  \ anecdotes and curiosa together with some evidence respecting the evanescent character\
+  \ of most inks of to-day and an epitome of chemico-legal ink."
+url: http://www.gutenberg.org/ebooks/1483

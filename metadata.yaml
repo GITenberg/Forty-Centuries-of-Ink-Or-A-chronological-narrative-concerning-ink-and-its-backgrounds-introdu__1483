@@ -1,5 +1,8 @@
 _repo: Forty-Centuries-of-Ink-Or-A-chronological-narrative-concerning-ink-and-its-backgrounds-introdu__1483
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carvalho, David Nunes
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '646'
     url: http://www.gutenberg.org/2009/agents/646
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1483#Forty-Centuries-of-Ink-Or-A-chronological-narrative-concerning-ink-and-its-backgrounds-introdu_
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text
 identifiers:

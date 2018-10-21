@@ -1,5 +1,5 @@
 _repo: Forty-Centuries-of-Ink-Or-A-chronological-narrative-concerning-ink-and-its-backgrounds-introdu__1483
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'TP'
 - !lcsh 'Ink'
+- GITenberg
 title: "Forty Centuries of Ink\r\nOr, A chronological narrative concerning ink and\
   \ its backgrounds, introducing incidental observations and deductions, parallels\
   \ of time and color phenomena, bibliography, chemistry, poetical effusions, citations,\
